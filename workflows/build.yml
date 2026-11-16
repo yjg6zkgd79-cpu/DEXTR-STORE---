@@ -1,5 +1,5 @@
 
-name: DEXTER STORE - Test Build
+name: build.yml
 
 on:
   workflow_dispatch:
